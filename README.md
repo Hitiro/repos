@@ -1,3 +1,7 @@
+# Sobre o projeto
+
+Projeto desenvolvido na aula do Curso de React do zero ao avançado feito na Udemy
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
